@@ -24,3 +24,8 @@ It allows to monitor the Orchestrator 2012, 2016, 2019 environment as a whole al
 ## How to configure it?
 - No installation is required!
 - Configuration is done through the Application Config File. You should specify the ConnectingString to your SCOrch Database (required) and your Web Service URL as well as Start Monitor Runbook’s runbook name (optional). Check included .config file for reference, you just need to replace the word “MyEnvironment” or “My Environment” by whatever name you want (It suppots multiple-entries):
+
+```xml
+<connectionStrings> 
+<add name="MyEnvironment_SCORCH_DB" connectionString="Server=SCORCH_SQL_SERVERNAME,PORT;Database=SCORCH_DB_NAME;Trusted_Connection=True;"/> 
+</connectionStrings>
