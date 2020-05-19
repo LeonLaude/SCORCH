@@ -7,7 +7,7 @@ I wanted to share this useful tool to monitor your Orchestrator environment.
 
 ### Abilities
 ```
-It allows to monitor the SCOrch 2012, 2016 environment as a whole allowing amoung several things:
+It allows to monitor the Orchestrator 2012, 2016, 2019 environment as a whole allowing amoung several things:
 - To see running and queued up Runbooks (summarized or per Runbook Server)
 - Get information of each specific instance connecting it with its PID
 - Ability to Stop the Runbook Tree (child, grandchild, etc Runbooks) as well as per Runbook Server
