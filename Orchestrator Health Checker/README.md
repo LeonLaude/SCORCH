@@ -2,8 +2,8 @@
 
 
 ## Description
-Since the Orchestrator CodePlex website has been archived and download links no longer working, 
-I wanted to share this useful tool to monitor your Orchestrator environment.
+Since the Orchestrator CodePlex website has been archived and download links are cryptic (but still downloadable), 
+I wanted to make it easy and share this useful tool to monitor your Orchestrator environment.
 
 ## Abilities
 It allows to monitor the Orchestrator 2012, 2016, 2019 environment as a whole allowing amoung several things:
